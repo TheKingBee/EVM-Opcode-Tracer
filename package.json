@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/<your-username>/EVM-Opcode-Tracer.git"
+    "url": "git+https://github.com/TheKingBee/EVM-Opcode-Tracer.git"
   },
   "keywords": [
     "ethereum",
@@ -17,13 +17,13 @@
     "tracer",
     "evm"
   ],
-  "author": "<Your Name>",
-  "license": "ISC",
+  "author": "TheKingBee",
+  "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/<your-username>/EVM-Opcode-Tracer/issues"
+    "url": "https://github.com/TheKingBee/EVM-Opcode-Tracer/issues"
   },
-  "homepage": "https://github.com/<your-username>/EVM-Opcode-Tracer#readme",
+  "homepage": "https://github.com/TheKingBee/EVM-Opcode-Tracer#readme",
   "dependencies": {
-    "axios": "^0.21.1"
+     "axios": "^0.21.1"
   }
 }
