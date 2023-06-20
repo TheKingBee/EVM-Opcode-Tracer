@@ -15,6 +15,13 @@ This will trace the usage of the opcode `0xff` (SELFDESTRUCT) over the past 8 mo
 
 The `--opcode` argument should be the opcode you want to trace, represented as a hexadecimal string. The `--months` argument should be the number of months in the past to start tracing from.
 
+## Credits and Resources
+[Infura Trace API](https://www.infura.io/platform/trace-api?ref=infura.ghost.io)
+[Infura blog: Introducing Infura Trace API](https://blog.infura.io/post/introducing-the-infura-trace-api-gain-deeper-insights-from-the-ethereum-execution-layer)
+[Ethereum and EVM Traces Explained](https://levelup.gitconnected.com/ethereum-and-evm-traces-explained-784ef9bf89a6) [Archived](https://archive.is/Ru0iB)
+[EVM Trace in Python](https://github.com/ApeWorX/evm-trace)
+[EVM Tracing in Geth](https://geth.ethereum.org/docs/developers/evm-tracing)
+
 ## Disclaimer
 
 This tool is a simple demonstration and might not be suitable for production use. Depending on the number of blocks and transactions, the `trace_filter` request could return a large amount of data and take a long time to complete.
