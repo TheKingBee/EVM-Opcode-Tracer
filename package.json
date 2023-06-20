@@ -1,0 +1,29 @@
+{
+  "name": "EVM-Opcode-Tracer",
+  "version": "1.0.0",
+  "description": "Ethereum Opcode Tracer: A Python tool to trace the usage of specific EVM opcodes in Ethereum transactions over a specified time period.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/<your-username>/EVM-Opcode-Tracer.git"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "opcode",
+    "tracer",
+    "evm"
+  ],
+  "author": "<Your Name>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/<your-username>/EVM-Opcode-Tracer/issues"
+  },
+  "homepage": "https://github.com/<your-username>/EVM-Opcode-Tracer#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
