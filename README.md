@@ -1,5 +1,6 @@
 # EVM-Opcode-Tracer
 A tool to trace the usage of specific EVM opcodes in Ethereum transactions over a specified time period.
+
 ## Setup
 
 1. Clone this repository.
@@ -25,6 +26,12 @@ The `--opcode` argument should be the opcode you want to trace, represented as a
 [EVM Trace in Python](https://github.com/ApeWorX/evm-trace)
 
 [EVM Tracing in Geth](https://geth.ethereum.org/docs/developers/evm-tracing)
+
+[Building Archive and Audit Nodesw](https://tjayrush.medium.com/building-your-own-ethereum-archive-node-72c014affc09)
+
+## TODO
+- Add support for other providers
+- Add local node support
 
 ## Disclaimer
 
