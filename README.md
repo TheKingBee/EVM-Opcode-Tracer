@@ -17,9 +17,13 @@ The `--opcode` argument should be the opcode you want to trace, represented as a
 
 ## Credits and Resources
 [Infura Trace API](https://www.infura.io/platform/trace-api?ref=infura.ghost.io)
+
 [Infura blog: Introducing Infura Trace API](https://blog.infura.io/post/introducing-the-infura-trace-api-gain-deeper-insights-from-the-ethereum-execution-layer)
+
 [Ethereum and EVM Traces Explained](https://levelup.gitconnected.com/ethereum-and-evm-traces-explained-784ef9bf89a6) [Archived](https://archive.is/Ru0iB)
+
 [EVM Trace in Python](https://github.com/ApeWorX/evm-trace)
+
 [EVM Tracing in Geth](https://geth.ethereum.org/docs/developers/evm-tracing)
 
 ## Disclaimer
