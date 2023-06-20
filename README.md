@@ -30,8 +30,9 @@ The `--opcode` argument should be the opcode you want to trace, represented as a
 [Building Archive and Audit Nodes](https://tjayrush.medium.com/building-your-own-ethereum-archive-node-72c014affc09)
 
 ## TODO
-- Add support for other providers
-- Add local node support
+- Support for other providers
+- Local node support
+- Output Formatting (csv, .md, PDF, sqlite etc)
 
 ## Disclaimer
 
